@@ -1,0 +1,61 @@
+/* General page styling */
+body {
+  background-color: rosybrown;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Paragraph spacing */
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+/* Remove link underlines */
+a {
+  text-decoration: none;
+}
+
+/* Main card container */
+.business-card {
+  width: 300px;
+  background-color: #fdf6f0;
+  padding: 20px;
+  margin: 100px auto;
+  text-align: center;
+  font-size: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+/* Profile image styling */
+.profile-image {
+  max-width: 100%;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+/* Portfolio link */
+.portfolio-link {
+  display: inline-block;
+  margin-top: 10px;
+  color: #5a2a27;
+  font-weight: bold;
+}
+
+/* Social media section */
+.social-media {
+  margin-top: 20px;
+}
+
+.social-media h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.social-media a {
+  display: block;
+  margin: 4px 0;
+  color: #333;
+}
